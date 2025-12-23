@@ -85,7 +85,7 @@ html,body{
 }
 
 .site-logo img {
-  height: 40px;   /* ロゴの大きさ */
+  height: 100px;   /* ロゴの大きさ */
   width: auto;
   cursor: pointer;
 }
